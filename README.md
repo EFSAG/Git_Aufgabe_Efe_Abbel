@@ -21,3 +21,7 @@ Danach schreibe ich auf vsc terminal git clone 'link von Repo'
 <li> <a href="/Git_Aufgabe_Efe_Abbel/IaaS.md">Iaas</a>
 <li> <a href="/Git_Aufgabe_Efe_Abbel/PaaS.md">PaaS</a>
 <li> <a href="/Git_Aufgabe_Efe_Abbel/SaaS.md">SaaS</a>
+<li> <a href="/Git_Aufgabe_Efe_Abbel/OnPremise.md">OnPremise</a>
+<li> <a href="/Git_Aufgabe_Efe_Abbel/privatecloud.md">Private Cloud</a>
+<li> <a href="/Git_Aufgabe_Efe_Abbel/publiccloud.md">Public Cloud</a>
+<li> <a href="/Git_Aufgabe_Efe_Abbel/hybridcloud.md">Hybrid Cloud</a>
